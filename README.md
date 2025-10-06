@@ -1,6 +1,6 @@
-# 📚 Third Year, First Semester
+# 📚 Third Year (2025-2026), First Semester
 
-📌 A comprehensive collection of tasks and lectures covering **Database Management System, Algorithms & Data Structure, and Advanced Software Engineering**.
+📌 A comprehensive collection of tasks and lectures covering **HENAaaaaa**.
 
 ---
 
@@ -8,7 +8,7 @@
 
 The repository is organized into subject-based folders for easy navigation:
 
-- **📁 Database Management System - IS312.**
+- **📁 HENAaaaaa**
 
 ---
 
