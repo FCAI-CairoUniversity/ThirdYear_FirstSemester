@@ -8,7 +8,11 @@
 
 The repository is organized into subject-based folders for easy navigation:
 
+- **📁 Advanced Software Engineering - IS352.**
+- **📁 Algorithms Analysis and Design - CS321.**
+- **📁 Analysis and Design of Information System - IS332.**
 - **📁 Database Management System - IS312.**
+- **📁 Files Management & Processing - IS321.**
 
 ---
 
