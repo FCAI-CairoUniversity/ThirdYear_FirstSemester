@@ -13,6 +13,7 @@ The repository is organized into subject-based folders for easy navigation:
 - **📁 Analysis and Design of Information System - IS332.**
 - **📁 Database Management System - IS312.**
 - **📁 Files Management & Processing - IS321.**
+- **📁 Operating Systems - CS341.**
 
 ---
 
