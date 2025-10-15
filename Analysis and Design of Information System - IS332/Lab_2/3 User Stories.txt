@@ -1,0 +1,19 @@
+- Consider software development for FCAI.
+- Identify some of the possible user stories for Students and Doctors.
+
+Solution: 
+
+User Story 1:
+As an FCAI student,
+I want to view my course materials and lecture slides online,
+so that I can easily study and review them anytime.
+
+User Story 2:
+As an FCAI student,
+I want to submit my assignments through the faculty portal,
+so that I can ensure my work is received and graded on time.
+
+User Story 3:
+As an FCAI doctor,
+I want to upload lectures, assignments, and announcements for my courses,
+so that students can access all academic resources in one place.
